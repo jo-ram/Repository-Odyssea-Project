@@ -118,6 +118,6 @@ img{
     border-top: 25px;
 } */
 
-/* button{
-    display: inline-block;
-} */
+button{
+    margin-top: 15px;
+}

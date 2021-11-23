@@ -3,7 +3,14 @@ header{
     position: relative;
     /* border-radius: 30px;
     border: 0.5px solid black; */
+    color: black;
+}
 
+
+}
+body{
+    margin: 0px;
+    background-color: rgba(245, 245, 245,1);
 
 }
 
@@ -25,6 +32,7 @@ header{
 
 a:hover{
     color: cadetblue;
+    /* color: black; */
     
 }
 
@@ -33,26 +41,83 @@ a:hover{
     text-decoration: none; 
     /* text-decoration: none; */
     color: black;
-}
+    /* color: cadetblue; */
+}    
 .amenu{
     word-spacing: normal;
     text-decoration: none; 
     /* text-decoration: none; */
     color: black;
+    /* color: cadetblue; */
 }
 .acontact{
     word-spacing: normal;
     text-decoration: none; 
     /* text-decoration: none; */
     color: black;
+    /* color: cadetblue; */
 }
 .aabout{
     word-spacing: normal;
     text-decoration: none; 
     /* text-decoration: none; */
     color: black;
+     /* color: cadetblue; */
+ 
 }
 
-/* a:hover{
-    color: cadetblue;
+.mywork1{
+    display: inline-block;
+    margin:75px;
+    text-align: center;
+  
+    
+}
+
+h2{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    border: 70px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#headmywork{
+    padding-bottom: 0px;
+}
+
+#description{
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    margin-right: 150px;
+} 
+
+img{
+    border-radius: 10%;
+    border: 1px solid black;
+}
+
+#profilephoto{
+    padding-right: 10px;
+    /* margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50PX; */
+    margin: 50px;
+    /* border-radius: 10%; */
+    border-radius: 15px;
+    border-color: white;
+
+}
+#mainmywork{
+    padding-bottom: 30px;
+}
+
+/* #section1st{
+    border-top: 25px;
+} */
+
+/* button{
+    display: inline-block;
 } */

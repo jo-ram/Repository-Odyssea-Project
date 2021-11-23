@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+    position: relative;
+    /* border-radius: 30px;
+    border: 0.5px solid black; */
+
+
+}
+
+#bar{
+    /* display: inline-block; */
+    text-align: center;
+    margin: 5px;
+    word-spacing: 30px;
+    border-radius: 30px;
+    border: 0.5px solid black;
+
+}
+/* 
+#pip{
+    word-spacing: none;
+    letter-spacing: 0;
+   
+} */
+
+a:hover{
+    color: cadetblue;
+    
+}
+
+.apip{
+    word-spacing: normal;
+    text-decoration: none; 
+    /* text-decoration: none; */
+    color: black;
+}
+.amenu{
+    word-spacing: normal;
+    text-decoration: none; 
+    /* text-decoration: none; */
+    color: black;
+}
+.acontact{
+    word-spacing: normal;
+    text-decoration: none; 
+    /* text-decoration: none; */
+    color: black;
+}
+.aabout{
+    word-spacing: normal;
+    text-decoration: none; 
+    /* text-decoration: none; */
+    color: black;
+}
+
+/* a:hover{
+    color: cadetblue;
+} */

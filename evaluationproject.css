@@ -121,3 +121,7 @@ img{
 button{
     margin-top: 15px;
 }
+
+button:hover{
+    color: cadetblue;
+}

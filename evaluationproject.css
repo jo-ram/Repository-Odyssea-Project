@@ -127,42 +127,38 @@ button:hover{
     color: cadetblue;
 }
 
-/* .bookrec3{
-    display: inline-block;
-    margin:75px;
-    text-align: center;
-} */
 
 .bookrec1{
     display: inline-block;
     text-align: center;
-    /* margin: 45px; */
-    /* vertical-align: center; */
+    /* margin: 75px; */
+    vertical-align: center;
 }
 .bookrec2{
     display: inline-block;
     text-align: center;
-    /* margin: 20px 20px 20px 15px; */
+   
 }
-.bookrec3{
+ .bookrec3{
     display: inline-block;
     text-align: center;
-    /* margin: 20px 10px 20px 20px; */
+   
 }
-.bookrec4{
+ .bookrec4{
     display: inline-block;
     text-align: center;
-    /* margin: 20px; */
+  
 }
 .bookrec5{
     display: inline-block;
     text-align: center;
-    /* margin: 20px; */
-}
+    
+}  
 
 #mainbookrec img{
     border-radius: 10%;
     border: 1px solid black;
+    margin: 50px 30px 5px 30px ;
  
 
 }

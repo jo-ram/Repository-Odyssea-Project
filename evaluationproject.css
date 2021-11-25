@@ -4,14 +4,16 @@ header{
     /* border-radius: 30px;
     border: 0.5px solid black; */
     color: black;
+    
 }
 
 
-}
-body{
-    margin: 0px;
-    background-color: rgba(245, 245, 245,1);
 
+ 
+
+#maindescription{
+    background-color: rgba(95, 158, 160,0.3);
+    border-radius: 15px;
 }
 
 #bar{
@@ -23,15 +25,9 @@ body{
     border: 0.5px solid black;
 
 }
-/* 
-#pip{
-    word-spacing: none;
-    letter-spacing: 0;
-   
-} */
 
 a:hover{
-    color: cadetblue;
+    color: rgba(196, 142, 43, 0.877);
     /* color: black; */
     
 }
@@ -70,19 +66,39 @@ a:hover{
     display: inline-block;
     margin:75px;
     text-align: center;
-  
-    
 }
 
-h2{
+/* h2{
     font-size: 30px;
     margin-top: 50px;
     margin-bottom: 0px;
     border: 70px;
     padding-bottom: 0px;
     text-align: center;
+} */
+
+#h2mywork{
+     padding-top: 50px;
+     font-size: 30px;
+     text-align: center;
+     padding-bottom: 0px;
+     margin-top: 50px;
+     margin-bottom: 0px;
+     border-bottom: 0px;
+     border-bottom: 0px;
+
 }
 
+#h2bookrec{
+    padding-top: 0px;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+
+}
 #headmywork{
     padding-bottom: 0px;
 }
@@ -97,6 +113,7 @@ h2{
 #mainmywork img{
     border-radius: 10%;
     border: 1px solid black;
+    padding: 0;
     /* text-align: center; */
 }
 
@@ -124,7 +141,7 @@ button{
 }
 
 button:hover{
-    color: cadetblue;
+    color: rgb(2, 90, 148);
 }
 
 
@@ -159,10 +176,22 @@ button:hover{
     border-radius: 10%;
     border: 1px solid black;
     margin: 50px 30px 5px 30px ;
- 
-
+    padding: 0px;
 }
 
 #byme{
     font-style: italic;
+}
+
+footer{
+   margin-top: 100px;
+   background-color: rgba(25, 78, 78,0.4);
+   padding: 20px  20px ;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: 100px;
+} 
+
+body{
+    background-color: rgba(175, 238, 238,0.2);
 }

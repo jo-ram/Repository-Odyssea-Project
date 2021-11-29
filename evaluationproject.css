@@ -114,6 +114,8 @@ a:hover{
     top: 150px;
     margin-right: 150px;
     text-align: justify;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
 } 
 
 #main-my-work img{
@@ -144,7 +146,10 @@ a:hover{
 
 button{
     /* margin-top: 5px; */
-    padding: 5px;
+    
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    padding: 10px;
     border: 2px solid ;
     color: rgb(129, 92, 11);
     border-radius: 30px;
@@ -211,4 +216,6 @@ footer{
 
 body{
     background-color: rgba(175, 238, 238,0.2);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 700;
 }

@@ -5,6 +5,7 @@ header{
     border: 0.5px solid black; */
     color: black;
     transition: all ease-in 1s 1s;
+    font-family: Cinzel, serif;
 }
 
 
@@ -65,7 +66,7 @@ a:hover{
  
 }
 
-.mywork1{
+.my-work-1{
     display: inline-block;
     margin:75px;
     text-align: center;
@@ -80,7 +81,7 @@ a:hover{
     text-align: center;
 } */
 
-#h2mywork{
+#my-work{
      padding-top: 50px;
      font-size: 30px;
      text-align: center;
@@ -92,7 +93,7 @@ a:hover{
 
 }
 
-#h2bookrec{
+#book-rec{
     padding-top: 0px;
     font-size: 30px;
     text-align: center;
@@ -102,7 +103,7 @@ a:hover{
     border-bottom: 0px;
 
 }
-#headmywork{
+#head-my-work{
     padding-bottom: 0px;
 }
 
@@ -115,7 +116,7 @@ a:hover{
     text-align: justify;
 } 
 
-#mainmywork img{
+#main-my-work img{
     border-radius: 10%;
     border: 1px solid black;
     padding: 0;
@@ -133,7 +134,7 @@ a:hover{
     border-color: white;
 
 }
-#mainmywork{
+#main-my-work{
     padding-bottom: 30px;
 }
 
@@ -142,49 +143,60 @@ a:hover{
 } */
 
 button{
-    margin-top: 15px;
+    /* margin-top: 5px; */
+    padding: 5px;
+    border: 2px solid ;
+    color: rgb(129, 92, 11);
+    border-radius: 30px;
+    font-size: 0.7em;
+    transition: all 0.5s;
+    
 }
 
 button:hover{
-    color: rgb(2, 90, 148);
+    border-color: rgb(169, 180, 9);
+    color: black;
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(169, 180, 9);
+    transform: translateY(-0.50em) ;
+    cursor: pointer;
 }
 
 
-.bookrec1{
+.book-rec-1{
     display: inline-block;
     text-align: center;
     /* margin: 75px; */
     vertical-align: center;
 }
-.bookrec2{
+.book-rec-2{
     display: inline-block;
     text-align: center;
    
 }
- .bookrec3{
+ .book-rec-3{
     display: inline-block;
     text-align: center;
    
 }
- .bookrec4{
+ .book-rec-4{
     display: inline-block;
     text-align: center;
   
 }
-.bookrec5{
+.book-rec-5{
     display: inline-block;
     text-align: center;
     
 }  
 
-#mainbookrec img{
+#main-book-rec img{
     border-radius: 10%;
     border: 1px solid black;
     margin: 50px 30px 5px 30px ;
     padding: 0px;
 }
 
-#byme{
+#by-me{
     font-style: italic;
 }
 
